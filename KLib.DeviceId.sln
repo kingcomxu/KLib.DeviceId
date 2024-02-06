@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KLib.DeviceId", "KLib.DeviceId.csproj", "{879272A1-CD6E-4405-9348-8CA72CB499A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KLib.DeviceId.Demo", "..\KLib.DeviceId.Demo\KLib.DeviceId.Demo.csproj", "{4F7C65CA-D1B2-4D9D-AE3B-875C3006B4CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879272A1-CD6E-4405-9348-8CA72CB499A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879272A1-CD6E-4405-9348-8CA72CB499A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879272A1-CD6E-4405-9348-8CA72CB499A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879272A1-CD6E-4405-9348-8CA72CB499A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7C65CA-D1B2-4D9D-AE3B-875C3006B4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7C65CA-D1B2-4D9D-AE3B-875C3006B4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7C65CA-D1B2-4D9D-AE3B-875C3006B4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7C65CA-D1B2-4D9D-AE3B-875C3006B4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18AEDE73-4BCE-40C6-B12E-A0C4944752E4}
+	EndGlobalSection
+EndGlobal
